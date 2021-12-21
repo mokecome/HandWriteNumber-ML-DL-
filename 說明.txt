@@ -13,3 +13,10 @@
 
 1.先訓練目標位置  用harr找到車牌      HARR/HOG/ML/DL
 2.辨識               光學             SVM  DNN CNN   +規則
+
+
+
+
+SVM
+隨機森林
+kmeans
